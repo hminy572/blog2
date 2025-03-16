@@ -1,0 +1,9 @@
+name: blog2
+tagline: Things you talk about
+url: https://hminy572.github.io/blog2
+menu:
+  - ["About", "about.html"]
+  - ["Pages", "pages.html"]
+  - ["Tags", "tags.html"]
+  - ["Follow me", "https://mastodon.social/@YOURUSER"]
+  - ["Github", "https://github.com/rochacbruno/marmite"]
